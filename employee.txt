@@ -1,0 +1,6 @@
+SSN,firstName,lastName,startYear,endYear,nbYear,Salary
+478230912,Ahmed,Diallo,2009,2016,7,3935.92
+238458745,Steve,Blenheim,2014,2016,2,1750.00
+978091123,Igor,Chevsky,2001,2013,12,5788.12
+408232306,Lori,GortZ,2012,2016,4,3345.53
+444556666,David,Hatori,2000,2015,15,3307.50
